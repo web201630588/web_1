@@ -1,0 +1,105 @@
+.card_body{
+	width:654px;
+	height:1025px;
+	margin:0 auto;
+}
+.main_body{
+	border:0.5px dotted #e6e7e8;
+	width:317px;
+	height:192px;
+	margin:0 auto;
+	float:left;
+}
+.header{
+	padding:15px;
+}
+.employee{
+	width:100%;
+}
+.logo{
+	float:left;
+	width:21%;
+	margin-top: -2px;
+	height: 37px;
+}
+.logo img{
+	width:56px;
+	padding:2px;
+}
+.detail{
+	margin-top:-5px;
+	width:79%;
+	float:left;
+	font-family:arial;
+	line-height:4px;
+	color:#58595b;
+}
+.detail h1{
+	text-align:right;
+	font-family:Calibri;
+	font-size:15px;
+	
+}
+.detail p{
+	text-align:right;
+	font-family:Century Gothic;
+	font-size:11px;
+	
+}
+.address{
+	margin-top:93px;
+}
+.address_1{
+	width:44%;
+	float:left;
+	font-family:Calibri;
+	font-size:9px;
+	color:#58595b;
+}
+.address_1 h1{
+	font-family:Calibri;
+	font-size:11px;
+	color:#223F99;
+}
+.address_1 p{
+	margin-top:-7px;
+	line-height:11px;
+	color:#58595b;
+}
+.email{
+	margin-top:-9px;
+}
+
+.address_2{
+	width:52%;
+	margin-left:10px;
+	float:left;
+}
+.address_2 h1{
+	font-family:Calibri;
+	font-size:11px;
+	color:#223F99;
+}
+.information{
+	font-family:Calibri;
+	font-size:9px;
+	line-height:0.5px;
+	margin-top:-5px;
+	color:#58595b;
+}
+.information p{
+	margin-top:10px;
+}
+
+.website{
+	border-top:1px solid black;
+	padding:0px;
+	margin-top:52px;
+}
+.website p{
+	margin-top:2px;
+	text-align:center;
+	font-family:Calibri;
+	font-size:9px;
+	color:#58595b;
+}
